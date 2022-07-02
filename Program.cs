@@ -1,4 +1,4 @@
-﻿string[] inputArray = 	{"hello", "2", "world", ":-)"};
+﻿string[] inputArray = { 	"1234", "1567", "-2", "computer science" };
 
 void PrintArray(string[] array)
 {
@@ -12,11 +12,26 @@ void PrintArray(string[] array)
 int numberShortWords = 0;
 for (int i = 0; i < inputArray.GetLength(0); i++)
 {
-    if ( inputArray[i] .Length <= 3){
+    if (inputArray[i].Length <= 3)
+    {
         numberShortWords++;
+    }
+}
+
+string[] resultArray = new string[numberShortWords];
+
+int tempInt = 0;
+for (int i = 0; i < inputArray.GetLength(0); i++)
+{
+    if (inputArray[i].Length <= 3)
+    {
+        resultArray[tempInt] = inputArray[i];
+        tempInt++;
     }
 }
 
 
 PrintArray(inputArray);
 Console.WriteLine($"Количество слов <=3 символов = {numberShortWords}");
+
+PrintArray(resultArray);
