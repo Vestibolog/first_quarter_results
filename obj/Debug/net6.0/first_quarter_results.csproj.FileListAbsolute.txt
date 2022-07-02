@@ -1,0 +1,15 @@
+C:\data\_js\_s3\first_quarter_results\obj\Debug\net6.0\first_quarter_results.csproj.AssemblyReference.cache
+C:\data\_js\_s3\first_quarter_results\obj\Debug\net6.0\first_quarter_results.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\_js\_s3\first_quarter_results\obj\Debug\net6.0\first_quarter_results.AssemblyInfoInputs.cache
+C:\data\_js\_s3\first_quarter_results\obj\Debug\net6.0\first_quarter_results.AssemblyInfo.cs
+C:\data\_js\_s3\first_quarter_results\obj\Debug\net6.0\first_quarter_results.csproj.CoreCompileInputs.cache
+C:\data\_js\_s3\first_quarter_results\bin\Debug\net6.0\first_quarter_results.exe
+C:\data\_js\_s3\first_quarter_results\bin\Debug\net6.0\first_quarter_results.deps.json
+C:\data\_js\_s3\first_quarter_results\bin\Debug\net6.0\first_quarter_results.runtimeconfig.json
+C:\data\_js\_s3\first_quarter_results\bin\Debug\net6.0\first_quarter_results.dll
+C:\data\_js\_s3\first_quarter_results\bin\Debug\net6.0\first_quarter_results.pdb
+C:\data\_js\_s3\first_quarter_results\obj\Debug\net6.0\first_quarter_results.dll
+C:\data\_js\_s3\first_quarter_results\obj\Debug\net6.0\refint\first_quarter_results.dll
+C:\data\_js\_s3\first_quarter_results\obj\Debug\net6.0\first_quarter_results.pdb
+C:\data\_js\_s3\first_quarter_results\obj\Debug\net6.0\first_quarter_results.genruntimeconfig.cache
+C:\data\_js\_s3\first_quarter_results\obj\Debug\net6.0\ref\first_quarter_results.dll
